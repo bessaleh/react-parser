@@ -1,9 +1,10 @@
 # react.js parser
 
-1. start server  
+1. install dependencies  
+    `npm install`
+
+2. start server  
     `npm start`
 
-2. open browser: [http://localhost:7777](http://localhost:7777)
+3. open browser: [http://localhost:7777](http://localhost:7777)
 
----
-if you clone this repository to local, just `npm install` and `npm start`.

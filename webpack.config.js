@@ -9,7 +9,7 @@ var config = {
  
   devServer: {
     inline: true,
-    port: 7778
+    port: 7777
   },
 
   module: {
